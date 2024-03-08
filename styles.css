@@ -1,0 +1,10 @@
+*{
+    font-family: "Lato", sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    display: grid;
+}
